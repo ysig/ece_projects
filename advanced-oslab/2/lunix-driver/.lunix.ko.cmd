@@ -1,0 +1,1 @@
+cmd_/root/git_folder/ex2/lunix-driver/lunix.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-0.bpo.4-common/scripts/module-common.lds --build-id  -o /root/git_folder/ex2/lunix-driver/lunix.ko /root/git_folder/ex2/lunix-driver/lunix.o /root/git_folder/ex2/lunix-driver/lunix.mod.o

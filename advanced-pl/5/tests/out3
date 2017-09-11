@@ -1,0 +1,2 @@
+App (Abs 'x' (App (Var 'x') (Abs 'o' (Abs 'i' (Output (Var 'i') (Output (Const '0') (App (Var 'x') (Abs 'x' (Abs 'x' (Output (Var 'o') (Output (Var 'x') (Output (Var 'o') (Output (Var 'i') (Output (Var 'i') (Output (Var 'o') (Var 'o')))))))))))))))) (Input (Abs 'o' (Input (Abs 'i' (Abs 'x' (App (App (Var 'x') (Var 'o')) (Var 'i')))))))
+

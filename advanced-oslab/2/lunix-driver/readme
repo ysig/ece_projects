@@ -1,0 +1,12 @@
+Πειράζουμε:
+init
+open
+read
+release
+++
+state refresh
+state update
+
+Έξτρα:
+mmap
+ioct

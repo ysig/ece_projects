@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Update Patient</title>
+	
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+
+</head>
+
+<body>
+	<header> 
+	  <h1> HealthCare </h1> 
+
+	<ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="Insert.html">Insert</a></li>
+      <li><a class="active" href="Update.html">Update</a></li>
+      <li><a href="Delete.html">Delete</a></li>
+      <li><a href="DB_Info.html">DB Info</a></li>
+      <li><a class="active" href="Views.html">Views</a></li>
+      <li><a href="Queries.html">Queries</a></li>
+	</ul>
+	</header>
+
+	<h1 class="title1"><strong>Update a Contract's entry</strong></h1>
+	
+	<div class="q">
+	<form action="Contract-Update.php">
+	
+	<input type="number" min="1" class="inputs" required="required" placeholder="Pharmacy ID" name="PharmacyId">
+	<br>
+
+	<input type="number" min="1" class="inputs" required="required" placeholder="Pharmaceutical Company ID" name="PharmaceuticalCompanyId">
+	<br>
+
+	<input type="date" min="1" class="inputs" required="required" placeholder="Start Date" name="StartDate">
+	<br>
+
+	<input type="date" min="1" class="inputs" required="required" placeholder="End Date" name="EndDate">
+	<br>
+
+	<input type="text" min="1" class="inputs" required="required" placeholder="Text" name="Text">
+	<br>
+
+
+	<input type="text" min="1" class="inputs" required="required" placeholder="Supervisor" name="Supervisor">
+	<br>
+
+	<input type="submit" value="Submit">
+	</form>
+	</div class="q">
+
+	<footer>Copyright &copy; DB 2017 </footer>
+</body>
+
+</html>

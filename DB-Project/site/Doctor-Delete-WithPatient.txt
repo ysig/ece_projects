@@ -1,0 +1,24 @@
+<html style="background-color:#f8f0e2;">
+<head>
+	<title>Delete doctor and Patient</title>
+
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+</head>
+<body>
+		
+        <form action="Doctor-Delete-WithPatient.php" method="post">
+     
+	<p>There are patients and prescriptions that are connected to this Doctor. Pressing submit you will also delete all of them. </p>
+	
+	<br>
+	
+
+	<input type="submit" value="Submit">
+	</form>
+
+	<div>
+		<h2><strong><a href="Delete.html">Back</a></strong></h2>	
+	</div>    
+
+</body>
+</html>

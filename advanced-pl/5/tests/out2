@@ -1,0 +1,2 @@
+App (Abs 'x' (Output (Var 'x') (Output (Const 'o') (Output (Var 'x') (Const 'i'))))) (Input (Abs 'y' (Var 'y')))
+lol

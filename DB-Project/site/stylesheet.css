@@ -1,0 +1,189 @@
+$dkgray: #394141;
+$gray: #454f4f ;
+$ltgray: #8e9699;
+$seafoam: #7BC087;
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: inline-block;
+}
+
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+
+
+
+header li {
+    float: left;
+}
+header a{
+    color: white
+}
+
+/*header li */
+a {
+    display: block;
+    color: #352f2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*header li*/
+a:hover {
+    color: #ada7a7;
+    background-color: #111;
+    margin:auto;
+}
+
+body{
+   background-color: #cccccc;
+   margin:auto;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    border-right: 1px solid gray;
+    padding: 0.5em;
+    
+    border-top: 1px black;
+    border-bottom: 1px black;
+    
+   padding-bottom: 0.7em; 
+    margin-top: 2.5em; 
+    margin-bottom: 3.6em;
+  /*  border: 1px solid #4a4a4a;*/
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+article p,article h2{
+    padding-top: 1em;
+    padding-bottom:0em;
+    text-align: justify;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+article{
+    font-family: "Book Antiqua";
+}
+
+article {
+    border-left: 1px solid gray;
+    margin-left: 210px;
+    padding: 0em;
+    overflow: hidden;
+    background-image: url("how-to-become-a-pharmacy-technician.jpg"); 
+  
+    margin-top: 2.5em; 
+    margin-bottom: 3.0em;
+    padding-bottom: 4.7em; 
+}
+
+
+table {
+height:50px;
+width:150px; 
+border: 1px solid black;
+margin: auto;
+margin-top: 40px; 
+margin-bottom: 60px;
+/*width: 640px;*/
+background: grey;
+border-collapse:collapse;
+border-spacing: 0;
+text-align: center;
+}
+
+
+th {
+border: 1px solid transparent; /* No more visible border */
+height: 30px;
+transition: all 0.3s; /* Simple transition for hover effect */
+/*background: black;*/ /* Darken header a bit */
+padding-right: 50px;
+padding-left: 50px;
+border-bottom: 2px solid black;
+}
+
+
+tr{
+    height:50px;
+    width:150px; 
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+
+td{
+    font-family: Georgia;
+    font-size:20px;
+    height:50px;
+    width:150px; 
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+
+}
+
+div.q{
+    margin-top: 100px; 
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+
+div.q p{
+   fint-size:25px; 
+
+}
+
+div.q a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+h1.title1{
+text-align:center;
+color:black;
+color:darkred;
+}
+
+
+
