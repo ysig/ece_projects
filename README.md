@@ -3,7 +3,7 @@
 Design of a Database which stores information for a Pharmaceutical Company implemented in mysql and a front-end/back-end development for a user interface using php, html, css.
 
 - Advanced Programming Languages:  
-Six programming exercises for a course of advanced programming languages concerning:
+Six programming exercises for a course of advanced programming languages concerning:  
 (1) haskell implementation of tarjans algorithm for articulation points (intended to learn and exercise haskell's lazyness)  
 (3) A formal-verification of a simple c program using frama-c  
 (4) a type inference program written in haskell for the simple l-calculus using the algorithm of the most general unifier  
